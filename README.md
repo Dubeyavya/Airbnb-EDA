@@ -10,6 +10,7 @@ Exploratory Data Analysis (EDA) by Airbnb is a methodical, data-driven strategy 
 8. **Testing of Hypotheses:** Testing hypotheses is used to confirm or disprove hypotheses. For instance, it might be investigated whether homes with particular features, like swimming pools, attract greater prices.
 9. **Machine learning:** Using EDA, predictive models may be created. To forecast occupancy rates, pricing patterns, or visitor preferences, machine learning algorithms can be trained on past data.
 10. **The extraction of actionable insights and suggestions:** the ultimate objective of the Airbnb EDA These results can help hosts improve their listings, visitors make wise decisions, and Airbnb improve its platform and services.
+
 In conclusion, Airbnb EDA provides a thorough and organized method for examining data from the Airbnb website. It equips hosts, visitors, and Airbnb with useful data for decision-making, boosting user satisfaction, and enhancing the platform.
 
 
